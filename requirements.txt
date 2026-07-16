@@ -1,0 +1,9 @@
+streamlit>=1.37
+requests>=2.32
+python-dotenv>=1.0
+chromadb>=0.5.23
+scikit-learn>=1.4
+numpy>=1.26
+langgraph>=0.2.0
+google-genai>=1.0.0
+pytest>=8.0
