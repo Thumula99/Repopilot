@@ -1,21 +1,6 @@
 # RepoPilot — Agentic RAG Support Engineer
 
-RepoPilot is a free-friendly AI project for students who want to show internship-ready AI engineering skills. It connects to a public GitHub repository, indexes files and issues, answers repo questions, helps debug errors, drafts GitHub issues, classifies ticket priority, and includes a simple retrieval evaluation dashboard.
-
-## Why this project is strong for AI internships
-
-Most student projects stop at "chat with PDF". RepoPilot shows a more practical production workflow:
-
-- GitHub repository ingestion
-- RAG over code, docs, and issues
-- LangGraph agent routing
-- Local Chroma vector search
-- Free offline embeddings
-- Optional Gemini or local Ollama generation
-- Bug report generation
-- Ticket priority classification
-- Basic evaluation dashboard
-- Streamlit UI
+RepoPilot is a free-friendly AI project. It connects to a public GitHub repository, indexes files and issues, answers repo questions, helps debug errors, drafts GitHub issues, classifies ticket priority, and includes a simple retrieval evaluation dashboard.
 
 ## Features
 
